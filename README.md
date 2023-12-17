@@ -1,4 +1,4 @@
-**Instagram Comment Sentiment Analysis Website Readme.md Description**
+**Description**
 
 **Instagram Comment Sentiment Website** is an interactive web application built with Streamlit to predict the sentiment of comments from Instagram. The application uses a pre-trained Support Vector Machine (SVM) model to classify comments as positive, negative, or neutral.
 
